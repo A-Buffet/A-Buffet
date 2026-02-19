@@ -36,8 +36,7 @@ Expert en infrastructure réseau et sécurisation des systèmes, spécialisé da
 ### 📊 Mes Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-Buffet&show_icons=true&theme=nord" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Buffet&layout=compact&theme=nord" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Buffet&theme=nord" alt="GitHub Streak" />
 </p>
 
 ---
